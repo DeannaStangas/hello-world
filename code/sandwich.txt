@@ -1,0 +1,18 @@
+estimate 15
+Pick up one piece of bread.
+Place on the counter
+Open peanut butter jar
+Take knife
+Place in peanut butter.
+Scoop out 2 tablespoons.
+Place on bread.
+Spread with knife.
+Pick up second piece of bread.
+Place on counter.
+Open jelly jar
+Take knife
+Place in jelly
+Scoop out 2 tablespoons.
+Place on new piece of bread.
+Spread with knife.
+Push together both pieces of bread, peanut butter touching jelly.
